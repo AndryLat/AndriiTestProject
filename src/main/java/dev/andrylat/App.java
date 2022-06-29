@@ -11,3 +11,10 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
+
+
+class OtherClass {
+    public static void main(String[] args) {
+        int i;
+    }
+}
